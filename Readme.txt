@@ -1,3 +1,5 @@
+Note: This application is AI generated.
+
 Dalle 2 prompt: a grilled cheese sandwich running on kubernetes
 
 Chat GPT Prompt: write a docker image for a website that displays an image of a grilled cheese sandwich

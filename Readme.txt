@@ -1,4 +1,6 @@
-Prompt: write a docker image for a website that displays an image of a grilled cheese sandwich
+Dalle 2 prompt: a grilled cheese sandwich running on kubernetes
+
+Chat GPT Prompt: write a docker image for a website that displays an image of a grilled cheese sandwich
 Chat GPT Response:
 Here's an example of a Dockerfile that creates a Docker image for a simple website that displays an image of a grilled cheese sandwich:
 
